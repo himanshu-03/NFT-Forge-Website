@@ -1,4 +1,5 @@
 
+
 :root {
 
   /**
@@ -1200,3 +1201,23 @@ body {
   .discover .grid-list { grid-template-columns: repeat(4, 1fr); }
 
 }
+
+
+.button-sty {
+  height: 40px;
+  place-items: center;
+  border-radius: 15px;
+  background-color: var(--blue-violet);
+  border: 1px solid var(--blue-violet);
+  margin-top: 20px;
+  margin-left: 100px;
+  max-width: max-content;
+  font-size: var(--body-md);
+  font-weight: var(--fw-600);
+  color: azure;
+  padding: 8px 30px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
