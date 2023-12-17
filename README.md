@@ -5,6 +5,7 @@
 Empower your creativity with NFT Forge, turning your unique ideas into digital collectibles that transcend imagination.
 ![image](https://github.com/himanshu-03/NFT-Forge-Website/assets/107564950/8eb44563-3656-4369-b60a-5fbc19fc47fd)
 ### Explore
-![image](https://github.com/himanshu-03/NFT-Forge-Website/assets/107564950/1030dd8c-5bef-4430-a4f0-fe17235596a8)
+![image](https://github.com/himanshu-03/NFT-Forge-Website/assets/107564950/1de74162-0e7a-4697-9817-8b500ef049ac)
+
 
 
